@@ -1,47 +1,47 @@
-Version du 18 octobre 2019
+Version V 1.1 du 18 octobre 2019
 
 * [Les metamots, préalables](#Les metamots, préalables)
 * [Tarifs](#Tarifs)
 * [Lancer un calcul de metamots](#Lancer un calcul de metamots)
 * [Ciblage Langue-Pays](#Ciblage Langue-Pays)
-* [Vue d'ensemble](#Vue d'ensemble)
 * [Calculer des metamots](#Calculer des metamots)
 * [Mes metamots et metamots de démo](#Mes metamots et metamots de démo)
 * [Résumé du calcul](#Résumé du calcul)
+* [Ajouter des metamots à un lot déjà calculé](#Ajouter des metamots à un lot déjà calculé)
 * [Parfum](#Parfum)
 * [Potentiel](#Potentiel)
 * [Simulations](#Simulations)
 * [Optimisations](#Optimisations)
+* [Calculer des idées d'intertitres ou de paragraphes](#Calculer des idées d'intertitres ou de paragraphes)
+* [Zone pour ajouter des urls a posteriori](#Zone pour ajouter des urls a posteriori)
+* [Aspirer votre page actuelle dans optimisation](#Aspirer votre page actuelle dans optimisation)
+* [Donner un accès restreint à l'espace "optimisations" à vos rédacteurs](#Donner un accès restreint à l'espace "optimisations" à vos rédacteurs)
 * [Vue d'ensemble](#Vue d'ensemble)
 * [Détails des metamots](#Détails des metamots)
 * [Maillage sémantique](#Maillage sémantique)
-* [Calculer un maillage interne](#Calculer un maillage interne)
+* [Onglet cocon automatique](#Onglet cocon automatique)
+* [Calculer plusieurs cocons en une seule fois](#Calculer plusieurs cocons en une seule fois)
+* [Visualisation](#Visualisation)
+* [Calculer un maillage interne de façon automatique](#Calculer un maillage interne de façon automatique)
+* [Calculer un maillage interne manuel](#Calculer un maillage interne manuel)
 * [All In](#All In)
 * [Liens forts](#Liens forts)
 * [Liens moyens](#Liens moyens)
 * [Maillage manuel](#Maillage manuel)
 * [Options de maillage](#Options de maillage)
 * [Export des données de maillage](#Export des données de maillage)
-* [Calculer un cocon sémantique](#Calculer un cocon sémantique)
-* [Calculer plusieurs cocons en une seule fois](#Calculer plusieurs cocons en une seule fois)
-* [Visualisation](#Visualisation)
-* [Ajouter des metamots à un lot déjà calculé](#Ajouter des metamots à un lot déjà calculé)
-* [Donner un accès restreint à l'espace "optimisations" à vos rédacteurs](#Donner un accès restreint à l'espace "optimisations" à vos rédacteurs)
-* [Calculer des idées d'intertitres ou de paragraphes](#Calculer des idées d'intertitres ou de paragraphes)
-* [Aspirer votre page actuelle dans optimisation](#Aspirer votre page actuelle dans optimisation)
-
 
 ## Les metamots, préalables
 
 1) Cette documentation a pour objectif d’expliquer le fonctionnement du service « metamots en SaaS » sur cocon.se.
 
 L’interface utilisateur considérée ici est celle de la langue française.
-Cette interface pourrait avoir évolué au moment de la consultation de la documentation que vous lisez en ce moment. Nous vous invitons à consulter la dernière version de la documentation.
+Cette interface pourrait avoir évolué au moment de la consultation de la documentation que vous lisez en ce moment. Nous vous invitons à consulter sa dernière version.
 
 2) Rappels :
 
 **Expression :**
-Expression-clé définissant le mieux votre page. Pensez avant tout à l'internaute qui ne vous connait pas. Idéalement, ce sera le sujet de votre page sous forme condensée.
+Expression-clé définissant le mieux votre page. Pensez avant tout à l'internaute qui ne vous connaît pas. Idéalement, ce sera le sujet de votre page sous forme condensée.
 
 **Metamot :**
 Ensemble de lexies composant la conjonction la plus adaptée à la requête précédente. Une expression, un sujet « engendre » son metamot. Par conséquent, 1 expression ou sujet = 1 metamot. Il est toutefois important de comprendre que les metamots sont surtout conçus pour du maillage.
@@ -56,14 +56,14 @@ Unité sémantique faisant partie d’un metamot. Un metamot est normalement com
 Vous achetez des crédits, crédits que vous pouvez utiliser librement pendant 1 an.
 1 metamot = 1 crédit.
 Ces crédits sont également utilisables pour faire des recherches de sujets avec Eureka.
-Il existe une forte dimunution des tarifs au volume.
+Il existe une forte diminution des tarifs au volume.
 La page tarif se trouve [ici](https://self.cocon.se/index.php?action=mm_tarifs).
 
-##Lancer un calcul de metamots
+## Lancer un calcul de metamots
 
 Une fois connecté à votre compte, la page dont nous allons parler maintenant se trouve [ici](https://self.cocon.se/index.php?action=mm_new).
 
-###Ciblage Langue-Pays
+### Ciblage Langue-Pays
 
 Les metamots sont disponibles en de nombreuses langues, y compris le Russe.
 
@@ -73,7 +73,7 @@ Lorsque vous commandez un calcul, les metamots seront donc spécifiques au coupl
 
 Il peut être intéressant d’ailleurs de comparer le même groupe d’expressions entre plusieurs pays partageant la même langue. Vous pouvez, par exemple, voir comment vos produits et marques rayonnent hors de vos frontières.
 
-###Calculer des metamots
+### Calculer des metamots
 
 Donnez un nom à votre lot de calcul, nom « parlant » de préférence.
 
@@ -95,9 +95,9 @@ Les étapes suivantes sont si évidentes que l’on ne vous fera pas l’injure 
 
 Note : une fois votre demande validée, les calculs se font en tâche de fond. Vous pouvez donc quitter votre navigateur et revenir plus tard.
 
-##Mes metamots et metamots de démo
+## Mes metamots et metamots de démo
 
-rendez-vous [ici](https://self.cocon.se/index.php?action=mm_list).
+Une fois connecté, rendez-vous [ici](https://self.cocon.se/index.php?action=mm_list).
 
 Cette page est une entrée qui en comprend plusieurs autres.
 
@@ -115,7 +115,7 @@ Note : L’action de suppression d’un calcul est définitive, réfléchissez 
 
 Pour consulter un calcul, cliquez sur son titre. Vous arriverez alors sur un résumé vous donnant accès aux diverses informations disponibles.
 
-###Résumé du calcul
+### Résumé du calcul
 
 Cliquez dans le lot que vous voulez analyser dans la liste.
 
@@ -123,15 +123,15 @@ La page d’entrée vous donne déjà quelques informations sur le résultat :
 
 ![](images/cocon-sem-06.png)
 
-##Ajouter des metamots à un lot déjà calculé
+## Ajouter des metamots à un lot déjà calculé
 
-Il est possible de fusionner, sous certaines conditions, de fusionner deux lots de metamots.
+Il est possible de fusionner, sous certaines conditions, deux lots de metamots.
 
-Cela peut être utile si on veut ajouter un ou plusiuers metamots à un lot précédant.
+Cela peut être utile si on veut ajouter un ou plusieurs metamots à un lot précédent.
 
 Les conditions pour que cela soit réalisable sont les suivantes :
 * Les deux lots doivent avoir l'un et l'autre moins de 6 mois d'âge
-* Les deux lots doivent avoir les mêmes ciblages langue-pays.
+* Les deux lots doivent avoir les mêmes ciblages langue-région.
 
 Pour réaliser une fusion, rendez-vous sur la page de résumé d'un des deux lots. Tout en bas, vous trouverez un bouton orange "Intégrer pack à…".
 
@@ -140,7 +140,7 @@ Pour réaliser une fusion, rendez-vous sur la page de résumé d'un des deux lot
 Laissez-vous porter, un assistant vous guidera pas à pas.
 Notez que c'est une opération assez lourde en temps machine et long en temps humain…
 
-###Parfum
+### Parfum
 
 Chaque expression a son environnement dans les résultats de recherche.
 
@@ -160,7 +160,7 @@ Le parfum doit donc vous inspirer pour être à armes au minimum égales avec vo
 
 Si vous avez des images dans les résultats de recherche, pourquoi ne pas tenter d’y mettre une des vôtres ?
 
-###Potentiel
+### Potentiel
 
 ![](images/cocon-sem-09.png)
 
@@ -170,9 +170,9 @@ Vous pouvez aussi aller à cette vue en cliquant sur « Potentiel » dans le m
 
 ![](images/cocon-sem-10.png)
 
-Le potentiel mesure la certitude que peut avoir un moteur sur ce que votre contenu doit inclure en fonction de votre sujet. Si un metamot a un fort potentiel mais que ses lexies vous semblent hors propos, nous vous invitons à reformuler votre sujet car le moteur ne le comprend pas encore bien. Le metamot est donc aussi un indicateur de compréhension de votre sujet tel que vous l'avez formulé.
+Le potentiel mesure la certitude que peut avoir un moteur sur ce que votre contenu doit inclure en fonction de votre sujet. Si un metamot a un fort potentiel, mais que ses lexies vous semblent hors propos, nous vous invitons à reformuler votre sujet, car le moteur ne le comprend pas encore bien. Le metamot est donc aussi un indicateur de compréhension de votre sujet tel que vous l'avez formulé.
 
-Dans le cas d’un déploiement progressif des metamots sur votre site, vous pouvez vous aider des potentiels pour choisir les contenus à améliorer en premier.
+Dans le cas d’un déploiement progressif des metamots sur votre site, vous pouvez vous aider des potentiels pour choisir les contenus à améliorer en priorité.
 
 Sur l’histogramme, vous avez une vue rapide sur le potentiel de chaque metamot de votre pack.
 En passant la souris sur les barres verticales, vous pouvez savoir quel metamot se cache derrière chacune des barres de l’histogramme.
@@ -198,7 +198,7 @@ Dans la colonne de gauche, sélectionnez simplement un des metamots, choisissez 
 
 Vous pouvez aussi exporter tous les metamots en PDF en une seule opération : cliquez pour cela sur le bouton en haut à droite « PDF 1000 » (1000 étant la quantité choisie dans cet exemple).
 
-###Optimisations
+### Optimisations
 
 Cette page de résultats de calculs vous donne différentes informations sur l'état de l'optimisation des pages qui vous sont concurrentes et, si vous avez renseigné vos urls, votre niveau actuel d'optimisation.
 
@@ -211,7 +211,7 @@ Les menus, footer, et autres gadgets sont ignorés.
 
 ![](images/cocon-sem-13.png)
 
-À partir de la vue « Résumé », vous pouvez accédez à cette vue « Optimisations » pour en voir le détail.
+À partir de la vue « Résumé », vous pouvez accéder à cette vue « Optimisations » pour en voir le détail.
 
 Vous pouvez aussi aller à cette vue en cliquant sur « Optimisations » dans le menu de gauche.
 
@@ -241,7 +241,7 @@ En cliquant sur une des lignes ou sur l’icone « écriture », vous avez acc
 
 ![](images/cocon-sem-48.png)
 
-Dans la zone du haut, vous pouvez améliorer votre balise « TITLE ». Ne perdez pas de vue que vous ne pourrez sans doute pas l’optimiser à 100 % car vous ne disposez que de 65 caractères si vous voulez être efficace dans les moteurs de recherche.
+Dans la zone du haut, vous pouvez améliorer votre balise « TITLE ». Ne perdez pas de vue que vous ne pourrez sans doute pas l’optimiser à 100 % car vous ne disposez que de 60 caractères si vous voulez être efficace dans les moteurs de recherche.
 
 Le calcul sera mis à jour avec le bouton « Sauver et calculer » en haut à droite de cette zone.
 
@@ -251,7 +251,7 @@ De même, vous pouvez optimiser votre texte sans que celui-ci ait besoin de se t
 
 ![](images/cocon-sem-50.png)
 
-Note : Dans cette copie d’écran, le texte a été volontairement été laissé vide.
+Note : Dans cette copie d’écran, le texte a été volontairement laissé vide.
 
 À droite du champ de saisie, vous disposez des informations vous permettant de réaliser l’optimisation metamot de votre texte. Pour mettre à jour le calcul, appuyez sur le bouton « Sauver et calculer ».
 
@@ -267,19 +267,19 @@ Note : Une bonne rédaction sur le web nécessite des phrases de moins de 15 mo
 
 Le bouton liste vous permet de récupérer la liste des cooccurrences par copier-coller.
 
-##Calculer des idées d'intertitres ou de paragraphes
+## Calculer des idées d'intertitres ou de paragraphes
 
 Vous pouvez obtenir des idées de paragraphes pour chacun de vos metamots.
 
-Rendez-vous dans la page "optimisation" accessible par le menu vertical de gauche. En fin de page, un bouton orange "Trouver des idées d'intertitres pour ce lot". 
+Rendez-vous dans la page "optimisation" accessible par le menu vertical de gauche. En fin de page, un bouton orange "Trouver des idées d'intertitres pour ce lot".
 
 ![](images/cocon-sem-67.png)
 
-Cliquez dessus et soyez patient, ce calcul s'opèrera en tache de fond et peut prendre plusieurs heures.
+Cliquez dessus et soyez patient, ce calcul s'opèrera en tâche de fond et peut prendre plusieurs heures.
 
 Si des idées ont été trouvées dans un ou plusieurs metamots du lot, vous les retrouverez avec les cooccurrences et lexies dans la page "optimisation" du metamot pour laquelle cette recherche a abouti.
 
-##Zone pour ajouter des urls a posteriori
+## Zone pour ajouter des urls a posteriori
 
 Pour renseigner en une seule fois toutes les urls de tous les metamots d'un même lot, rendez-vous dans la page d'entrée de l' "Optimisation". Sous la liste des metamots, vous trouverez un champ permettant d'entrer les couples {metamots, url} avec la syntaxe suivante :
 * un couple par ligne
@@ -287,19 +287,19 @@ Pour renseigner en une seule fois toutes les urls de tous les metamots d'un mêm
 
 ![](images/cocon-sem-68.png)
 
-##Aspirer votre page actuelle dans optimisation
+## Aspirer votre page actuelle dans optimisation
 
 Tout en bas de chaque page, une zone vous permet d'aspirer la page dont vous aurez indiqué l'url.
 
-Le système essayera d'extraire la partie contenu de la page (donc, sans les menus, footer, etc.) Malheureusement, ce n'est pas toujours possible, tous les pages web ne se valent pas. Dans ce cas vous aurez éventuellement à nettoyer les éléments inutiles pour l'optimisation.
+Le système essayera d'extraire la partie contenu de la page (donc, sans les menus, footer, etc.) Malheureusement, ce n'est pas toujours possible, toutes les pages web ne se valent pas de point de vue de la qualité du HTML. Dans ce cas vous aurez éventuellement à nettoyer les éléments inutiles pour l'optimisation.
 
 ![](images/cocon-sem-69.png)
 
-##Donner un accès restreint à l'espace "optimisations" à vos rédacteurs
+## Donner un accès restreint à l'espace "optimisations" à vos rédacteurs
 
-Donner accès à un ou plusieurs rédacteurs aux optimisation d'un lot de metamots, choisissez dans la liste de vos lots de metamots le lot pour lequel vous voulez donner un accès.
+Donner accès à un ou plusieurs rédacteurs aux optimisations d'un lot de metamots, choisissez dans la liste de vos lots de metamots le lot pour lequel vous voulez donner un accès.
 
-Dans le menu vertical à gauche, cliquer sur le bouton colorié en orange "Accès rédacteur". 
+Dans le menu vertical à gauche, cliquer sur le bouton colorié en orange "Accès rédacteur".
 
 ![](images/cocon-sem-64.png)
 
@@ -309,26 +309,26 @@ Votre rédacteur aura alors accès à la partie "optimisation" de ce lot et de c
 
 ![](images/cocon-sem-65.png)
 
-###Vue d'ensemble
+### Vue d'ensemble
 
 ![](images/cocon-sem-51.png)
 
 À partir de la vue « Résumé », vous pouvez accéder à la « Vue d’ensemble » en cliquant sur détail (!).
-La présente figure est à ce stade difficilement interprêtable…
+La présente figure est à ce stade difficilement interprétable…
 
-Outre une visu globale et une liste interactives, vous pouvez visualiser le voyage des lexies dans l’ensemble des metamots. Cette visu est réservée aux élites de la sémantqiues et n'est pas non plus interprêtable par le commun des mortels.
+Outre une visu globale et une liste interactives, vous pouvez visualiser le voyage des lexies dans l’ensemble des metamots. Cette visu est réservée aux élites de la sémantique et n'est pas non plus interprêtable par le commun des mortels.
 
 Vous avez aussi accès à la liste de toutes les lexies qui se trouvent dans l’ensemble de votre lot. Cette liste est notamment utile pour concevoir des cocons sémantiques.
 Habituellement, cette liste sert à générer des sujets avec Eurêka.
 
 ![](images/cocon-sem-52.png)
 
-###Détails des metamots
+### Détails des metamots
 
 ![](images/cocon-sem-15.png)
 
 Dans le nuage se trouvent des lexies horizontales et verticales.
-Ce n'est pas un effet de style : les lexies verticales sont les "autres lexies" que nous pouvons considérer comme les lexies pour lesquelle le moteur a une certitude plus faible.
+Ce n'est pas un effet de style : les lexies verticales sont les "autres lexies" que nous pouvons considérer comme celles pour lesquelles le moteur a une certitude plus faible.
 
 À partir de la vue « Résumé », vous pouvez accéder à cette vue en choisissant le metamot que vous voulez analyser pour en voir le détail.
 
@@ -336,8 +336,8 @@ Ce n'est pas un effet de style : les lexies verticales sont les "autres lexies" 
 
 Chaque metamot est spécifique. Il est composé d’un ensemble de lexies qui sont attirées de façon différente **vers l’expression ou le sujet**.
 
-Le terme "attirance" pourrait aussi être nommé "taux de confiance", mais cela entraînerait certanes ambiguïtés par ailleurs.
-Note : Curieusement, dans le brevet de sur les vecteurs de contexte, et qui est **postérieur** à la propriété intellectuelle sur les metamots, c'est ce même terme, attirance, qui a été choisi par Google…
+Le terme "attirance" pourrait aussi être nommé "taux de confiance", mais cela entraînerait certaines ambiguïtés par ailleurs.
+Note : Curieusement, dans le brevet sur les vecteurs de contexte, et qui est **postérieur** à la propriété intellectuelle sur les metamots, c'est ce même terme, *attirance*, qui a été choisi par Google…
 
 Il existe 3 types de lexies dans un metamot :
 
@@ -349,7 +349,7 @@ Vous devez placer toutes les lexies du metamot sans en omettre aucune, et ce, in
 
 Vous pouvez télécharger les données grâce à l’icône avec le nuage.
 
-###Maillage sémantique
+### Maillage sémantique
 
 ![](images/cocon-sem-17.png)
 
@@ -359,20 +359,21 @@ Vous pouvez aller à cette vue en cliquant sur « Maillage sémantique » dans
 
 Les metamots permettent non seulement de calibrer une page par rapport à son expression-clé, mais permettent surtout d’assurer un glissement sémantique à la fois logique pour l’internaute et à la fois pour les moteurs de recherche.
 
-3 Onglets distincts vous donnent accès à 3 types d'actions distinctes :
-* Calculer un cocon sémantique (avec un tête ou plusieurs)
+3 Onglets distincts vous donnent accès à 3 types d'actions :
+
+* Calculer un cocon sémantique (avec une tête ou plusieurs)
 * Calculer un maillage interne de façon totalement automatique et très performant.
 * Calculer un maillage interne manuellement.
 
 **Les metamots non utilisables pour du maillage ou cocons ne sont pas listés.**
 
-####Onglet cocon automatique
+#### Onglet cocon automatique
 
-Créer un cocon sémantique est très simple. Choisissez le metamot cible dans la liste de la zone 4 puis cliquez sur « cocon automatique ».
+Créer un cocon sémantique est très simple. Choisissez le metamot cible dans la liste de gauche puis cliquez sur « cocon automatique ».
 
 ![](images/cocon-sem-34.png)
 
-Selon les cas le calcul peut être assez lon (notemment, un lot important avec Hyperion).
+Selon les cas le calcul peut être assez long (notamment, un lot important avec Hyperion).
 Pour passer le temps, vous pouvez compter le nombre de tours que font les deux roues ;-)
 
 ![](images/cocon-sem-55.png)
@@ -387,9 +388,9 @@ Fermer la fenêtre, votre cocon s'affiche dans la zone de validation.
 
 *Résultat après spatialisation*
 
-Un survol au dessus d’une bulle montre l’expression du metamot en surimpression.
+Un survol au-dessus d’une bulle montre l’expression du metamot en surimpression.
 
-Les bulles de la visu sont également cliquables et permettent de sélectionner le metamot dans la liste de la zone 4.
+Les bulles de la visu sont également cliquables et permettent de sélectionner le metamot dans la liste de la colonne de gauche.
 
 Vous pouvez récupérer le PDF avec les metamots élus par le logiciel (après avoir « sauvegarder », bien entendu).
 
@@ -397,19 +398,19 @@ Vous pouvez récupérer le PDF avec les metamots élus par le logiciel (après a
 
 Dans le cas des cocons vous avez aussi accès à "Pages HTML" et ".mm"
 Avec "Pages HTML" :
-Vous récupèrerez un zip de votre cocon sous forme d’un ensemble de pages HTML, une page HTML par metamot **avec les liens du maillage déjà implémentés** [sous forme de liens relatifs]. Il vous restera toutefois à y mettre votre texte…
+Vous récupérerez un zip de votre cocon sous forme d’un ensemble de pages HTML, une page HTML par metamot **avec les liens du maillage déjà implémentés** [sous forme de liens relatifs]. Il vous restera toutefois à y mettre votre texte…
 
-Le bouton .mm exportent le mindmap.
+Le bouton .mm exporte le mindmap.
 
 **Ces 2 boutons ne fonctionnent que pour les cocons, pas pour le maillage classique.**
 
-#####Calculer plusieurs cocons en une seule fois
+##### Calculer plusieurs cocons en une seule fois
 
 En premier lieu, cliquez sur « Multi-tête ».
 
 ![](images/cocon-sem-37.png)
 
-La zone 4 se met à jour en faisant apparaître des coches devant chaque metamot.
+La colonne de gauche se met à jour en faisant apparaître des coches devant chaque metamot.
 
 ![](images/cocon-sem-38.png)
 
@@ -437,16 +438,16 @@ Quatre algorithmes différents sont proposés. Chacun d’entre eux produira des
 
 * Hyperion va favoriser le glissement entre pages parents et enfants
 * Japet va favoriser le glissement entre pages soeurs
-* Themis est le généreux de la bande, il est open et tant que c'est liable, ça lui va.
-* Zeus va lui être l'exigent : le glissement Parents/enfants est tout aussi important que les glissements entre pages soeurs.
+* Themis est le généreux de la bande, il est open et tant que c'est avec une affinité minimale, ça lui va.
+* Zeus va lui être exigeant : le glissement Parents/enfants est tout aussi important que les glissements entre pages sœurs.
 
-####Visualisation
+#### Visualisation
 
-Après le calcul de cocon sémantique, ou après le calcul d’un maillage, les metamots sont disposés ainsi dans la zone 7.
+Après le calcul de cocon sémantique, ou après le calcul d’un maillage, les metamots sont disposés ainsi dans la visu.
 
 ![](images/cocon-sem-43.png)
 
-Des outils, en haut à gauche de la zone 7, vous permettent d’agencer les résultats de façon différente.
+Des outils, en haut à gauche de la visu, vous permettent d’agencer les résultats de façon différente.
 
 ![](images/cocon-sem-44.png)
 
@@ -463,13 +464,16 @@ Pour obtenir les vues des exemples précédents, cliquez sur l’engrenage [spat
 
 **NOTE : N'oubliez pas que vous avez la possibilité de récupérer le HTML des cocons…
 
-####Calculer un maillage interne de façon automatique
+#### Calculer un maillage interne de façon automatique
 
 Cliquez sur l'onglet "Maillage sémantique automatique"
 
 ![](images/cocon-sem-57.png)
 
 Il n'y a qu'un seul bouton, c'est donc tout simple.
+
+Vous pourrez récupérer le squellette HTML pour ce type de maillage.
+
 Cliquez sur "Maillage automatique"
 
 ![](images/cocon-sem-58.png)
@@ -482,15 +486,15 @@ La visu une fois spatialisée :
 
 ![](images/cocon-sem-60.png)
 
-####Calculer un maillage interne manuel
+#### Calculer un maillage interne manuel
 
 Cliquez sur l'onglet "maillage manuel assisté"
 
 ![](images/cocon-sem-61.png)
 
-Il y a trois façons de faire : soit tout faire manuellement (!), soit utiliser les outils automatiques.
+Il y a trois façons de faire : soit tout faire manuellement (!), soit utiliser les outils semi-automatiques.
 
-#####All In
+##### All In
 
 Choisissez un des metamots-cible dans la colonne de gauche.
 
@@ -508,7 +512,7 @@ Cette action vous permet de faire recevoir à la page sélectionnée tous les li
 
 Vous pouvez répéter cette opération sur plusieurs metamots
 
-#####Liens forts
+##### Liens forts
 
 Cette opération ne nécessite pas de sélection particulière, car elle agit sur l’ensemble des metamots. Donc, en 1 clic, vous réalisez tous les liens forts possibles s'il y en a.
 
@@ -520,7 +524,7 @@ Cliquez sur « Liens forts », les pages en très forte affinité se retrouven
 
 *Résultat après spatialisation*
 
-#####Liens moyens
+##### Liens moyens
 
 En cliquant sur « Liens moyens », tous les liens de force moyenne entre les pages compatibles sont calculés. Cette étape peut être faite à tous moments, même après avoir ajouté tous les liens forts.
 
@@ -539,9 +543,9 @@ Nous pouvons bien sûr cumuler "liens forts" et "liens moyens" (en commençant p
 *Résultat après spatialisation*
 
 Nous observons 2 clusters qui se sont formés naturellement :
-Bien que faisant partie de la même thématique, nous avons ici à gauche ce qui concerne la résiliation et à droite ce qui concerne le choix d'une assurance.
+Dans cet exemple, bien que faisant partie de la même thématique, "assurance auto", nous avons ici à gauche ce qui concerne la résiliation et à droite ce qui concerne le choix d'une assurance.
 
-#####Maillage manuel
+##### Maillage manuel
 
 Cliquez sur un des metamots de colonne de gauche
 
@@ -559,11 +563,11 @@ Cliquez sur un des metamots de la colonne du milieu.
 
 Les puces grises sont mises à jour avec le nombre de liens entrants et sortants de chaque metamot.
 
-Un metamot étant sélectionné en zone 4 et un autre en zone 5, la zone 6 se met à jour avec les lexies qui peuvent être utiliser pour contextualiser le lien qui les relie (lexies à utiliser dans les +/-15 mots de distance du lien; 3 lexies suffisent la plupart du temps) 
+Un metamot étant sélectionné en colonne gauche et un autre en colonne du milieu, la partie droite se met à jour avec les lexies qui peuvent être utiliser pour contextualiser le lien qui les relie (lexies à utiliser dans les +/-15 mots de distance du lien; 3 lexies suffisent la plupart du temps)
 
 ![](images/cocon-sem-30.png)
 
-#####Options de maillage
+##### Options de maillage
 
 ![](images/cocon-sem-31.png)
 
@@ -574,7 +578,7 @@ Cette option ne modifie pas les liens déjà créés.
 
 Dans les exemples précédents du maillage manuel assisté, les valeurs par défaut ont été utilisées : Max Out à 5, max In à 10.
 
-#####Export des données de maillage 
+##### Export des données de maillage
 
 ![](images/cocon-sem-32.png)
 
