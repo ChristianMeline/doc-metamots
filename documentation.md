@@ -31,7 +31,7 @@ Version V 1.1 du 18 octobre 2019
 * [Options de maillage](#Options-de-maillage)
 * [Export des données de maillage](#Export-des-données-de-maillage)
 
-## Les metamots\, préalables
+## Les metamots, préalables
 
 1) Cette documentation a pour objectif d’expliquer le fonctionnement du service « metamots en SaaS » sur cocon.se.
 
