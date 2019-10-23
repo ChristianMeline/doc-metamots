@@ -1,8 +1,8 @@
 Version V 1.1 du 18 octobre 2019
 
-* [Les metamots, préalables](#Les metamots, préalables)
+* [Les metamots, préalables]( #Les metamots, préalables)
 * [Tarifs](#Tarifs)
-* [Lancer un calcul de metamots](#Lancer un calcul de metamots)
+* [Lancer un calcul de metamots] (#Lancer un calcul de metamots)
 * [Ciblage Langue-Pays](#Ciblage Langue-Pays)
 * [Calculer des metamots](#Calculer des metamots)
 * [Mes metamots et metamots de démo](#Mes metamots et metamots de démo)
