@@ -1,6 +1,6 @@
 Version du 18 octobre 2019
 
-* [Les metamots, préalables](#Les metamots, préalables)
+[Les metamots, préalables](#Les metamots, préalables)
 * [Tarifs](#Tarifs)
 * [Lancer un calcul de metamots](#Lancer un calcul de metamots)
 * [Ciblage Langue-Pays](#Ciblage Langue-Pays)
