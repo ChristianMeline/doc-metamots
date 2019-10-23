@@ -40,13 +40,13 @@ Cette interface pourrait avoir évolué au moment de la consultation de la docum
 
 2) Rappels :
 
-**Expression :**
+** Expression : **
 Expression-clé définissant le mieux votre page. Pensez avant tout à l'internaute qui ne vous connait pas. Idéalement, ce sera le sujet de votre page sous forme condensée.
 
-**Metamot :**
+** Metamot : **
 Ensemble de lexies composant la conjonction la plus adaptée à la requête précédente. Une expression, un sujet « engendre » son metamot. Par conséquent, 1 expression ou sujet = 1 metamot. Il est toutefois important de comprendre que les metamots sont surtout conçus pour du maillage.
 
-**Lexie :**
+** Lexie : **
 Unité sémantique faisant partie d’un metamot. Un metamot est normalement composé de 20 lexies. Chaque lexie a un rôle précis dans le metamot et ne doit pas être vue comme possiblement séparée des autres dans votre contenu.
 
 3) Une fois connecté à votre compte, la page « [EXPLICATIONS](https://self.cocon.se/index.php?action=mm_about) » vous donne un peu de lecture sur le sujet des metamots. Vous y trouverez aussi des liens pour réaliser une stratégie sémantique appropriée à votre cas particulier.
